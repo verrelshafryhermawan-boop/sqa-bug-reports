@@ -1,0 +1,1 @@
+# sqa-bug-reports
